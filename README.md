@@ -4,14 +4,6 @@ A basic job-listing application aggregates diverse job opportunities from variou
 
 Leveraging the versatility of React Native, users can enjoy a seamless cross-platform experience while taking advantage of the application's user-friendly interface and robust features for efficient job exploration.
 
-## Screenshots (taken on Android)
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="./_screens/home_screen.jpg" alt="Home Screen" style="width: 30%;">
-    <img src="./_screens/search_screen.jpg" alt="Search Screen" style="width: 30%;">
-    <img src="./_screens/detail_screen.jpg" alt="Detail Screen" style="width: 30%;">
-
-</div>
 
 ## How to test using <a href="https://expo.dev/">Expo</a>
 
@@ -28,4 +20,13 @@ Leveraging the versatility of React Native, users can enjoy a seamless cross-pla
         <img src="https://qr.expo.dev/eas-update?updateId=6cc8618e-0d70-4052-8282-676c6748b51b&amp;appScheme=exp&amp;host=u.expo.dev" class="size-[300px]" alt="Update preview QR code"/>
         <p>Or, open this link on your device: <a href="exp://u.expo.dev/update/6cc8618e-0d70-4052-8282-676c6748b51b" class="text-link transition-opacity duration-200 hocus:opacity-80">exp://u.expo.dev/update/6cc8618e-0d70-4052-8282-676c6748b51b</a></p>
     </div>
+</div>
+
+## Screenshots (taken on Android)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="./_screens/home_screen.jpg" alt="Home Screen" style="width: 30%;">
+    <img src="./_screens/search_screen.jpg" alt="Search Screen" style="width: 30%;">
+    <img src="./_screens/detail_screen.jpg" alt="Detail Screen" style="width: 30%;">
+
 </div>
