@@ -3,15 +3,23 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "@/*": [
-        "./*"
-      ]
+      "@/*": ["./*"]
     }
   },
   "include": [
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
-    "expo-env.d.ts"
+    "expo-env.d.ts",
+    "components/common/cards/popular/popularjobcard.style.js",
+    "components/common/header/ScreenHeaderBtn.tsx",
+    "assets/constants/icons.js",
+    "constants/icons.js",
+    "app/index.js",
+    "app/_layout.jsx",
+    "components/common/cards/nearby/NearbyJobCard.jsx",
+    "components/common/cards/nearby/nearbyjobcard.style.js",
+    "constants/theme.js",
+    "constants/index.js"
   ]
 }
